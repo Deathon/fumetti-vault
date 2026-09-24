@@ -70,15 +70,36 @@ Principio:
 
 > La collezione alimenta il contenuto. Il contenuto non deve comandare la collezione.
 
+Per i primi 30 contenuti:
+- nessun budget editoriale separato;
+- priorità alla collezione già posseduta;
+- nessun acquisto fatto solo per generare contenuto.
+
 ---
 
 ## 2026-09-24 — Regular purchases
 
 **Status:** APPROVED
 
-Abbonamenti, fumetteria ed edicola continuano secondo le normali abitudini di collezione.
+Abbonamenti, HoVistoCose, fumetteria ed edicola continuano secondo le normali abitudini di collezione.
 
-Il prezzo di copertina è un dato editoriale valido e non è necessario cercare sempre occasioni o rivalutazioni.
+Il progetto non deve cambiare negozio solo per inseguire la tempestività delle uscite.
+
+---
+
+## 2026-09-24 — Timeliness
+
+**Status:** APPROVED
+
+Il progetto non compete come pagina di breaking news.
+
+Le uscite arrivate in ritardo possono diventare contenuti evergreen:
+- New in the Vault;
+- Vault Check;
+- Collection Update;
+- analisi dell'edizione.
+
+Per le prossime uscite viene introdotto il format **Vault Radar**.
 
 ---
 
@@ -115,6 +136,24 @@ Partenza lean:
 - voce sintetica;
 - template grafici;
 - niente attrezzatura costosa prima della validazione.
+
+---
+
+## 2026-09-24 — Production corner
+
+**Status:** APPROVED
+
+Creare un angolo fisso o semi-fisso per foto e video.
+
+Obiettivo:
+ridurre il tempo di setup e mantenere coerenza visiva.
+
+Requisiti:
+- piano neutro;
+- supporto smartphone top-down;
+- luce controllabile;
+- spazio sufficiente per volumi e albi;
+- setup rapido e replicabile.
 
 ---
 

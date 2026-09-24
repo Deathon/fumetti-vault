@@ -8,6 +8,7 @@ Nuovi ingressi reali:
 - abbonamenti;
 - fumetteria;
 - edicola;
+- HoVistoCose;
 - acquisti ordinari.
 
 Struttura:
@@ -17,6 +18,8 @@ Struttura:
 4. dettaglio interessante;
 5. verdict editoriale;
 6. archivio aggiornato.
+
+Questo format non richiede che il fumetto sia appena uscito sul mercato.
 
 ### Vault Check
 
@@ -33,6 +36,20 @@ Stato di una collana o serie:
 - numeri mancanti;
 - costo cumulativo;
 - cosa resta da completare.
+
+### Vault Radar
+
+Contenuto sulle prossime uscite o preordini.
+
+Uso:
+- cosa sta per uscire;
+- cosa interessa;
+- cosa viene preordinato;
+- cosa viene saltato;
+- perché.
+
+Regola:
+non presentare come review un prodotto non ancora posseduto.
 
 ## Fase 2 — format di ricerca
 
@@ -92,8 +109,19 @@ Pillole educative:
 - conservazione;
 - errori comuni.
 
+## Format di lancio
+
+Per la fase iniziale si validano prima:
+
+1. New in the Vault
+2. Vault Check
+3. Collection Update
+4. Vault Radar
+
+Vault Hunt entra appena esiste un'asta realmente interessante.
+
 ## Regola
 
 Non tutti i format devono essere attivi contemporaneamente.
 
-Prima validare 2-3 format, poi espandere.
+Prima validare pochi format, poi espandere.
